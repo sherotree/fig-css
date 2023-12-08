@@ -1,0 +1,49 @@
+:root {
+  --color-primary: #1d77ff;
+  --color-bg-secondary: rgba(29, 119, 255, 0.06);
+
+  --fig-color-bg: #ffffff;
+  --fig-color-bg-hover: #f5f5f5;
+  --fig-color-bg-selected: #e5f4ff;
+  --fig-color-bg-brand-tertiary: #e5f4ff;
+  --fig-color-bg-brand-hover: #007be5;
+  --fig-color-bg-brand: #0d99ff;
+  --fig-color-bg-onselected: #bde3ff;
+  --fig-color-bg-inverse: #2c2c2c;
+  --fig-color-bg-tertiary: #e6e6e6;
+  --fig-color-text: rgba(0, 0, 0, 0.9);
+  --fig-color-text-brand: #1a1a1a;
+  --fig-color-bg-brand: #1a1a1a;
+  --fig-color-border: #e6e6e6;
+  --fig-color-border-disabled: #e6e6e6;
+  --fig-color-border-selected: #0d99ff;
+  --fig-color-text-secondary: rgba(0, 0, 0, 0.5);
+  --fig-color-text-tertiary: rgba(0, 0, 0, 0.3);
+  --fig-color-text-selected: #007be5;
+  --fig-color-text-oninverse: #ffffff;
+  --fig-color-bg-secondary: #f5f5f5;
+  --fig-color-icon-secondary: rgba(0, 0, 0, 0.5);
+  --fig-color-icon-secondary-hover: rgba(0, 0, 0, 0.9);
+  --fig-color-icon-onbrand-tertiary: rgba(255, 255, 255, 0.4);
+  --fig-color-icon-onbrand-secondary: rgba(255, 255, 255, 0.8);
+  --fig-color-bg-pressed: #f5f5f5;
+  --fig-color-icon-tertiary: rgba(0, 0, 0, 0.3);
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  /* width: 12px; */
+  height: 20px;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  border-left: 4px solid rgba(0, 0, 0, 0);
+  box-shadow: 8px 0 0 var(--figma-color-bg-hover) inset;
+}

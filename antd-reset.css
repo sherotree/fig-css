@@ -1,0 +1,36 @@
+.ant-btn {
+  box-shadow: unset !important;
+}
+
+.ant-select-selector {
+  box-shadow: unset !important;
+}
+
+.ant-select-selection-item-remove {
+  display: inline-flex !important;
+}
+
+.ant-input:focus,
+.ant-input:hover {
+  box-shadow: unset !important;
+}
+
+.ant-popover-arrow {
+  visibility: hidden;
+}
+
+.ant-modal-confirm-content {
+  max-width: unset !important;
+}
+
+.ant-modal-content {
+  padding: 16px !important;
+}
+
+.ant-message-custom-content {
+  font-size: 12px !important;
+}
+
+.ant-input-suffix {
+  margin-left: 8px !important;
+}

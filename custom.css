@@ -1,0 +1,14 @@
+.fig-title--secondary {
+  font-size: 11px;
+  color: var(--figma-color-text-secondary);
+  font-weight: 400;
+}
+
+.fig-icon-wrapper {
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 4px;
+}
+.fig-icon-wrapper:hover {
+  background-color: var(--figma-color-bg-hover);
+}
