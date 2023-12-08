@@ -1,11 +1,12 @@
 {
   "name": "fig-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS resets for figma plugin",
   "main": "index.css",
   "style": "index.css",
+  "author": "sherotree",
+  "license": "MIT",
   "files": [
     "index.css"
-  ],
-  "license": "MIT"
+  ]
 }
