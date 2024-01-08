@@ -1,6 +1,6 @@
 {
   "name": "fig-css",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "CSS resets for figma plugin",
   "main": "index.css",
   "style": "index.css",
